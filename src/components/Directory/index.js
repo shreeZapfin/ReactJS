@@ -12,9 +12,7 @@ const Directory = props => {
                 <a style={{color:"blue"}}>Shop Womens</a>
               </div>
               <div class="col-sm" className="item">
-                <a style={{color:"red"}}>
-                Shop Mens
-                </a>
+                <a style={{color:"red"}}>Shop Mens</a>
               </div>
             </div>
         </div>

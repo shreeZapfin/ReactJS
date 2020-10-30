@@ -21,6 +21,12 @@ const Header = props => {
                 Register
               </button>
             </Link>
+            &nbsp;
+            <Link to="/login">
+              <button className="butn form-group btn btn-warning">
+                Login
+              </button>
+            </Link>
             </li>   
           </ul> 
         </div>
